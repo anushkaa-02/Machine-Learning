@@ -38,3 +38,6 @@ import numpy as np
 - Faster
 - Convenient
 - Less memory
+
+## Indexing, Slicing & Iteration:
+
