@@ -24,4 +24,12 @@
 ```python
 import numpy as np
 ```
+---
 
+## Numpy array properties & Attributes:
+- Shape
+- nDim
+- size
+- Itemsize
+- Dtype
+- asType()
