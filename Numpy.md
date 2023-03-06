@@ -33,3 +33,8 @@ import numpy as np
 - Itemsize
 - Dtype
 - asType()
+
+## Numpy Array vs Python List:
+- Faster
+- Convenient
+- Less memory
