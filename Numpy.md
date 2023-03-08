@@ -38,6 +38,18 @@ import numpy as np
 - Faster
 - Convenient
 - Less memory
+## Reshaping array:
+- ravel()
+- reshape()
+- transpose()
+- stack
+- split
+## Plotting graphs:
+```python
+import matplotlib.pyplot as plt
+%matplotlib inline
 
-## Indexing, Slicing & Iteration:
+plt.plot(x,y)
+```
+
 
