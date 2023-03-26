@@ -33,5 +33,8 @@ pd.read_csv('file_name')
   - fetch either 1 row or multiple rows.
   - can apply fancy indexing also.
 
-## Filtering dataframe on a condition : (Masking using boolean series)
+## The plot function
+  - import matplotlib.pyplot as plt
+  - .plot(kind='bar/brh/pie/hist...') 
+  - 
 
