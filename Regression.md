@@ -49,11 +49,6 @@ y^ = theta(0)+ theta(1)x1  **(Here theta(0) and theta(1) are the coefficient of 
 
 ---
 
-## Multiple linear Regression :
-When more than one independent variable is present the process is called multiple linear regression. For example, predicting Co2 emission using engine size and cylinders of cars.
-
----
-
 ## Model Evaluation in Regression Models:
 - Approaches:
   - Train and test on the same data.
@@ -104,6 +99,7 @@ data = cross_validation.KFold(len(train_set), n_folds=10, indices=False)
 ---
 
 # Multiple Linear Regression
+- When more than one independent variable is present the process is called multiple linear regression. For example, predicting Co2 emission using engine size and cylinders of cars.
 - Independent variables effectiveness on prediction
   - e.g: Revision time, test anxiety, lecture attendance and gender have any effect on the exam performance of students.
 - Predicting impacts of changes
