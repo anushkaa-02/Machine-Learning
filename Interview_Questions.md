@@ -1,0 +1,37 @@
+# Interview questions: (Taken from Medium)
+- What is Regression?
+- What are the Types of regression?
+- Explain the assumptions of Linear regression.
+- How to evaluate regression models?
+- Explain different types of model Testing methods.
+- Explain Benefits of cross validation?
+- What is overfitting?
+- What are different ways to fix overfitting?
+- How to handle imbalanced data in a dataset?
+- What to do if your data is skewed?
+- What if your data has outliers, how to identify and different ways to fix?
+- What is difference between lasso and ridge regression?
+- What is cross entropy?
+- Difference between precision and recall?
+- What is a confusion matrix?
+- What is AUC?
+- What is bias variance trade-off?
+- What is correlation? How is it related to covariance?
+- What are activation function? Explain different Types? Where and why it is used? Sigmoid vs tan h vs relu?
+- What is classification?
+- How to evaluate classification models?
+- What are ensemble models?
+- What is clustering?
+- What are types of clustering?
+- How to decide the K in k means clustering? Can we automate it? If yes how?
+- What is hypothesis testing?
+- What is A/B testing?
+- How does time series work? Explain how to approach a time series problem step by step.
+- How do you treat seasonality in time series?
+- What to do if your time series data is not stationary?
+- Difference between ARIMA and SARIMA?
+- What is auto correlation?
+- Can we use deep learning for time series forecasting? If yes what models to use? How do they work?
+- What is null hypothesis?
+- What is PCA? Why do we use? What alternatives are there?
+- What is bagging and boosting? Explain xgboost?
