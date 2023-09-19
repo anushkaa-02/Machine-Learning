@@ -135,3 +135,57 @@
 - Resampling Techniques:
   - Oversampling: Increase the number of instances in the minority class by replicating existing samples or generating synthetic samples.
   - Undersampling: Reduce the number of instances in the majority class to balance class distribution.
+
+## 9. What is classification?
+- Classification algorithms used in machine learning utilize input training data for the purpose of predicting the likelihood or probability that the data that follows     
+  will fall into one of the predetermined categories. E.g : Spam mail classification.
+  - Binary Classification
+  - Multi-Class Classification
+  - Multi-Label Classification
+  - Imbalanced Classification
+
+
+ ## 10. How to evaluate classification model?
+ - Confusion Matrix
+ - Accuracy, Recall, Precision
+ - F1 Score
+ - Receiving Operating Characteristics(ROC),Area under the Curve(AUC)
+ - Log Loss
+
+   
+## 11. Difference between Supervised, unsupervised and reinforcement?
+
+![image](https://github.com/pilipi-puu-puu/Machine-Learning/assets/87390353/b7e77c49-ce1e-4162-9ed8-bea423f3a9f4)
+
+## 12. What is reinforcement learning?
+- Reinforcement Learning is a feedback-based Machine learning technique in which an agent learns to behave in an environment by performing the actions and seeing the 
+  results of actions. For each good action, the agent gets positive feedback, and for each bad action, the agent gets negative feedback or penalty.
+- The agent learns with the process of hit and trial, and based on the experience, it learns to perform the task in a better way.
+
+
+## 13. What is clustering?
+- A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less 
+  or no similarities with another group.
+
+## 14. What is bagging and boosting? Explain xgboost?
+- Bagging is a method of merging the same type of predictions. Boosting is a method of merging different types of predictions.
+- Bagging decreases variance, not bias, and solves over-fitting issues in a model. Boosting decreases bias, not variance.
+- In Bagging, each model receives an equal weight. In Boosting, models are weighed based on their performance.
+- In Bagging, training data subsets are drawn randomly with a replacement for the training dataset. In Boosting, every new subset comprises the elements that were 
+  misclassified by previous models.
+
+- XGBOOST:
+  - XGBoost, which stands for Extreme Gradient Boosting, is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library.
+  - It provides parallel tree boosting and is the leading machine learning library for regression, classification, and ranking problems.
+ 
+
+## 15. What is PCA? Why do we use? What alternatives are there?
+- PCA:
+  - Principal component analysis (PCA) is a popular technique for analyzing large datasets containing a high number of dimensions/features per observation, increasing the      interpretability of data while preserving the maximum amount of information, and enabling the visualization of multidimensional data.
+- Alternatives:
+  - Linear Discriminant Analysis (LDA)
+ 
+## what is AUC?
+- AUC stands for "Area under the ROC Curve." That is, AUC measures the entire two-dimensional area underneath the entire ROC curve (think integral calculus) from (0,0) to 
+  (1,1).
+
